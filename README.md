@@ -1,11 +1,11 @@
-About finlogic
-==============
+About finlogic-feedstock
+========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/finlogic-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/crdcj/FinLogic
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/finlogic-feedstock/blob/main/LICENSE.txt)
 
 Summary: Finance toolkit for listed Brazilian companies
 
