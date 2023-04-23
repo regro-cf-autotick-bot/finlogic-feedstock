@@ -3,7 +3,7 @@ About finlogic-feedstock
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/finlogic-feedstock/blob/main/LICENSE.txt)
 
-Home: https://github.com/crdcj/FinLogic
+
 
 Package license: MIT
 
@@ -143,5 +143,5 @@ In order to produce a uniquely identifiable distribution:
 Feedstock Maintainers
 =====================
 
-* [@crdcj](https://github.com/crdcj/)
+* [@CRCJ](https://github.com/CRCJ/)
 
