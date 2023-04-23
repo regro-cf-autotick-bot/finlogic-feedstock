@@ -1,13 +1,13 @@
 {% set name = "finlogic" %}
-{% set version = "0.3.5" %}
+{% set version = "0.3.8" %}
 
 package:
   name: {{ name|lower }}
   version: {{ version }}
 
 source:
-  url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/FinLogic-{{ version }}.tar.gz
-  sha256: 023f1acf4e850d4eeed7154a84e43555808a52331e6169e021c014ac56b3d634
+  url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/{{ name }}-{{ version }}.tar.gz
+  sha256: 62a03180676bb4cc6f5f654910794495f827703053ddc117de161eb74a5dc4ff
 
 build:
   noarch: python
